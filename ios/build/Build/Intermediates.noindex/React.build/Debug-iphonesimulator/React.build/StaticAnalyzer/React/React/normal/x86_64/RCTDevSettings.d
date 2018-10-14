@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/r0l01f0/Desktop/ReactNativeAndroidSample/imooc_gp/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
