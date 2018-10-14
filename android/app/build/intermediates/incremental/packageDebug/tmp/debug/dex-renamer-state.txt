@@ -1,0 +1,4 @@
+#Sat Oct 13 22:46:49 CDT 2018
+base.0=/Users/r0l01f0/Desktop/ReactNativeAndroidSample/ImoocProjects/imooc_gp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
